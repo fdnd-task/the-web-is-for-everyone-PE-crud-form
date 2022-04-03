@@ -1,4 +1,4 @@
-# The web is for everyone - Progressive Enhancement
+# The web is for everyone - Progressive Enhancement CRUD form
 
 Leren wat Progressive Enhancement is en hoe je dit kan toepassen
 
@@ -17,45 +17,49 @@ In deze opdracht ga je leren wat Progressive Enhancement is en hoe je dit kan to
 
 ## Werkwijze
 
+Voor deze opdracht ga je een CRUD formulier ontwerpen en bouwen volgens het principe van Progressive enhancemnt. 
+
+Eerst ga je je verdiepen in wat Progressive enhancement is en hoe je dit kan toepassen voor je opdracht. 
+
+Daarna ga je een breakdown schetsen en alle _features_ die je wil gebruiken onderzoeken.
+
+Vervolgens ga je je ontwerp bouwen.
+
 Deze opdracht gaat over de [analyse](#analyseren), [ontwerp](#ontwerpen) en [bouw](#bouwen) fase van de DLC.
 
 ### Analyseren
-*In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voeren.*
+
+Eerst ga je je verdiepen in wat _Progressive enhancement_ is en hoe je dit kan toepassen voor je opdracht. 
 
 <details>
 <summary>Aanpak</summary>
 
-1. {geef de stappen}
-2. {die in deze fase}
-3. {doorlopen worden}
+1. Lees het artikel [Responsive Enhancement](https://24ways.org/2014/responsive-enhancement/) van Jeremy Keith
+2. Bepaal wat voor jouw CRUD formulier de _core functionality_ is. 
 
 #### Materiaal analysefase
 
-- [Responsive Enhancement](https://24ways.org/2014/responsive-enhancement/) Jeremy Keith schrijft "Progressive enhancement isn’t a technology. It’s more like a way of thinking." in dit artikel laat hij een voorbeeld zien van PRogressivr Enhancement. 
-- [Make the Web Work For Everyone](https://hacks.mozilla.org/2016/07/make-the-web-work-for-everyone/)
-- [The Role of Enhancement in Web Design](https://www.nngroup.com/articles/enhancement/), een goed artikel over waarom een _feature_ een _enhancement_ is.
-- [Everyone has JavaScript, right? by Stuart Langridge](https://kryogenix.org/code/browser/everyonehasjs.html)
-- [Understanding Progressive Enhancement](https://alistapart.com/article/understandingprogressiveenhancement/) waarna deze manier van denken een belangrijk onderdeel werd van Web Development.
-- [The unreasonable effectiveness of simple HTML by Terence Eden](https://shkspr.mobi/blog/2021/01/the-unreasonable-effectiveness-of-simple-html/)
-- [A minimum viable experience makes for a resilient, inclusive website or app](https://piccalil.li/blog/a-minimum-viable-experience-makes-for-a-resilient-inclusive-website-or-app)
+- [Responsive Enhancement](https://24ways.org/2014/responsive-enhancement/) Jeremy Keith schrijft "Progressive enhancement isn’t a technology. It’s more like a way of thinking." In dit artikel laat hij met een voorbeeld zien hoe je Progressive enhancement kan toepassen. 
 
 </details>
 
 ### Ontwerpen
-*In de ontwerpfase neem je ontwerpbeslissingen en zorg je dat je precies weet wat je moet gaan bouwen.*
+
+Als je weet wat de _core functionality_ is van jouw CRUD formulier kun je een Breakdown schetsen waarin je duidelijk maakt wat de verschillende technieken zijn die je wil gebruiken en hoe je dit in 3 lagen kan opbouwen.
+
 
 <details>
 <summary>Aanpak</summary>
 
-1. {geef de stappen}
-2. {die in deze fase}
-3. {doorlopen worden}
+1. Schets een Wireflow van jouw opdracht. Teken de schermen die een gebruiker te zien moet krijgen.
+2. Maak per scherm een Breakdown van de HTML, CSS en JS die je nodig denkt te hebben.
+3. Onderzoek per gebruikte techniek wat de ondersteuning is door verschillende browsers.
 
 #### Materiaal ontwerpfase
 
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-- [Resource](https://example.com)
+- [A minimum viable experience makes for a resilient, inclusive website or app](https://piccalil.li/blog/a-minimum-viable-experience-makes-for-a-resilient-inclusive-website-or-app)
+- [The Role of Enhancement in Web Design](https://www.nngroup.com/articles/enhancement/), een goed artikel over waarom een _feature_ een _enhancement_ is.
+- [Can I use](https://caniuse.com/) "Can I use" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
 
 </details>
 
@@ -65,15 +69,11 @@ Deze opdracht gaat over de [analyse](#analyseren), [ontwerp](#ontwerpen) en [bou
 <details>
 <summary>Aanpak</summary>
 
-1. {geef de stappen}
-2. {die in deze fase}
-3. {doorlopen worden}
+1. 
 
 #### Materiaal bouwfase
 
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-- [Resource](https://example.com)
+- [The power of progressive enhancement](https://archive.hankchizljaw.com/wrote/the-power-of-progressive-enhancement/) Een voorbeed van het toepassen van _Progressive enhancement_ 
 
 </details>
 
