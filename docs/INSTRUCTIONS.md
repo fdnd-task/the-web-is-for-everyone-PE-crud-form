@@ -31,13 +31,12 @@ Deze opdracht gaat over de [analyse](#analyseren), [ontwerp](#ontwerpen) en [bou
 
 #### Materiaal analysefase
 
-- [Responsive Enhancement](https://24ways.org/2014/responsive-enhancement/)
+- [Responsive Enhancement](https://24ways.org/2014/responsive-enhancement/) Jeremy Keith schrijft "Progressive enhancement isn’t a technology. It’s more like a way of thinking." in dit artikel laat hij een voorbeeld zien van PRogressivr Enhancement. 
 - [Make the Web Work For Everyone](https://hacks.mozilla.org/2016/07/make-the-web-work-for-everyone/)
 - [The Role of Enhancement in Web Design](https://www.nngroup.com/articles/enhancement/), een goed artikel over waarom een _feature_ een _enhancement_ is.
 - [Everyone has JavaScript, right? by Stuart Langridge](https://kryogenix.org/code/browser/everyonehasjs.html)
 - [Understanding Progressive Enhancement](https://alistapart.com/article/understandingprogressiveenhancement/) waarna deze manier van denken een belangrijk onderdeel werd van Web Development.
 - [The unreasonable effectiveness of simple HTML by Terence Eden](https://shkspr.mobi/blog/2021/01/the-unreasonable-effectiveness-of-simple-html/)
-- [Be progressive by Jeremy Keith](https://adactio.com/journal/7706)
 - [A minimum viable experience makes for a resilient, inclusive website or app](https://piccalil.li/blog/a-minimum-viable-experience-makes-for-a-resilient-inclusive-website-or-app)
 
 </details>
