@@ -31,6 +31,7 @@ Deze opdracht gaat over de [analyse](#analyseren), [ontwerp](#ontwerpen) en [bou
 
 #### Materiaal analysefase
 
+- [Responsive Enhancement](https://24ways.org/2014/responsive-enhancement/)
 - [Make the Web Work For Everyone](https://hacks.mozilla.org/2016/07/make-the-web-work-for-everyone/)
 - [The Role of Enhancement in Web Design](https://www.nngroup.com/articles/enhancement/), een goed artikel over waarom een _feature_ een _enhancement_ is.
 - [Everyone has JavaScript, right? by Stuart Langridge](https://kryogenix.org/code/browser/everyonehasjs.html)
