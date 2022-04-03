@@ -19,7 +19,7 @@ In deze opdracht ga je leren wat Progressive Enhancement is en hoe je dit kan to
 
 Voor deze opdracht ga je een CRUD formulier ontwerpen en bouwen volgens het principe van Progressive enhancement. 
 
-We gaan een CRUD formulier maken die met behulp van Javascript kan worden verstuurd met een loading en succes state, en als een browser Javascript niet ondersteund dan wordt het formulier op de server afgehandeld.
+We gaan een CRUD formulier maken die met behulp van Javascript kan worden verstuurd met een loading en succes state. Als een browser Javascript niet ondersteund dan wordt het formulier op de server afgehandeld.
 
 Eerst ga je je verdiepen in wat Progressive enhancement is en hoe je dit kan toepassen voor je opdracht. Daarna ga je een Breakdown schets maken en alle technieken die je wil gebruiken onderzoeken. Vervolgens ga je je ontwerp bouwen.
 
