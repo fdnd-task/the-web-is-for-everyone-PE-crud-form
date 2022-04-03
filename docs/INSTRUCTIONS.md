@@ -17,7 +17,9 @@ In deze opdracht ga je leren wat Progressive Enhancement is en hoe je dit kan to
 
 ## Werkwijze
 
-Voor deze opdracht ga je een CRUD formulier ontwerpen en bouwen volgens het principe van Progressive enhancemnt. 
+Voor deze opdracht ga je een CRUD formulier ontwerpen en bouwen volgens het principe van Progressive enhancement. 
+
+We gaan een CRUD formulier maken die met behulp van Javascript kan worden verstuurd met een loading en succes state, en als een browser Javascript niet ondersteund dan wordt het formulier op de server afgehandeld.
 
 Eerst ga je je verdiepen in wat Progressive enhancement is en hoe je dit kan toepassen voor je opdracht. Daarna ga je een Breakdown schets maken en alle technieken die je wil gebruiken onderzoeken. Vervolgens ga je je ontwerp bouwen.
 
@@ -44,14 +46,14 @@ Eerst ga je je verdiepen in wat _Progressive enhancement_ is en hoe je dit kan t
 
 ### Ontwerpen
 
-Als je weet wat de _core functionality_ is van jouw CRUD formulier kun je een Breakdown schetsen waarin je duidelijk maakt wat de verschillende technieken zijn die je wil gebruiken en hoe je dit in 3 lagen kan opbouwen.
+Als je weet wat de _core functionality_ is van het CRUD formulier kun je een Wireflow teken voor je ontwerp en een Breakdown maken van hoe je dit in 3 lagen kan opbouwen.
 
 
 <details>
 <summary>Aanpak</summary>
 
-1. Schets een Wireflow van jouw CRUD form. Teken alle schermen die een gebruiker te zien moet krijgen.
-2. Maak per scherm een Breakdown met pseudo-code van de 3 lagen die je nodig hebt: HTML, CSS en JS.
+1. Schets een Wireflow van jouw CRUD form. Teken alle schermen, met een loading state en succes state die een gebruiker te zien moet krijgen.
+2. Maak per scherm een Breakdown met pseudo-code van de 3 lagen die je nodig hebt: HTML en server side, CSS layout en het versturen van het formulier met JS.
 3. Onderzoek per techniek wat de ondersteuning is door verschillende browsers. Bv JS Fetch, querySelector, CSS Flexbox en Grid, worden alle HTML elementen altijd ondersteund?
 
 #### Materiaal ontwerpfase
@@ -63,21 +65,18 @@ Als je weet wat de _core functionality_ is van jouw CRUD formulier kun je een Br
 
 ### Bouwen
 
-Als je weet wat de 3 lagen zijn en hoe de verschillende technieke worden ondersteund kun je beginnen met bouwen.
+Als je weet wat de 3 lagen zijn en hoe de verschillende technieken worden ondersteund kun je beginnen met bouwen.
 
 <details>
 <summary>Aanpak</summary>
 
 1. Schrijf eerst de HTML en test wat er gebeurt als elementen niet worden ondersteund
 2. Voeg CSS toe, gebruik de cascade voor fallback
-3. Gebruik CSS voor een goede UX formulier validatie als dat nodig is.
-4. Voeg de JS toe die je nodig hebt en gebruik _feature detection_ om ervoor te zorgen dat je geen errors krijgt in browsers die bepaalde code niet ondersteunen. 
+3. Voeg de JS toe die je nodig hebt en gebruik _feature detection_ om ervoor te zorgen dat je geen errors krijgt in browsers die bepaalde code niet ondersteunen. 
 
 #### Materiaal bouwfase
 
 - [Learn CSS: The cascade](https://web.dev/learn/css/the-cascade/)
-- [Client-side form validation](https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation)
-- [Form Validation UX in HTML and CSS](https://css-tricks.com/form-validation-ux-html-css/)
 - [Implementing feature detection](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Feature_detection)
 
 </details>
