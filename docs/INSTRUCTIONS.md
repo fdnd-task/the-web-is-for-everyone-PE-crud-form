@@ -19,11 +19,7 @@ In deze opdracht ga je leren wat Progressive Enhancement is en hoe je dit kan to
 
 Voor deze opdracht ga je een CRUD formulier ontwerpen en bouwen volgens het principe van Progressive enhancemnt. 
 
-Eerst ga je je verdiepen in wat Progressive enhancement is en hoe je dit kan toepassen voor je opdracht. 
-
-Daarna ga je een breakdown schetsen en alle _features_ die je wil gebruiken onderzoeken.
-
-Vervolgens ga je je ontwerp bouwen.
+Eerst ga je je verdiepen in wat Progressive enhancement is en hoe je dit kan toepassen voor je opdracht. Daarna ga je een Breakdown schets maken en alle technieken die je wil gebruiken onderzoeken. Vervolgens ga je je ontwerp bouwen.
 
 Deze opdracht gaat over de [analyse](#analyseren), [ontwerp](#ontwerpen) en [bouw](#bouwen) fase van de DLC.
 
@@ -40,6 +36,9 @@ Eerst ga je je verdiepen in wat _Progressive enhancement_ is en hoe je dit kan t
 #### Materiaal analysefase
 
 - [Responsive Enhancement](https://24ways.org/2014/responsive-enhancement/) Jeremy Keith schrijft "Progressive enhancement isn’t a technology. It’s more like a way of thinking." In dit artikel laat hij met een voorbeeld zien hoe je Progressive enhancement kan toepassen. 
+- [A minimum viable experience makes for a resilient, inclusive website or app](https://piccalil.li/blog/a-minimum-viable-experience-makes-for-a-resilient-inclusive-website-or-app)
+- [The power of progressive enhancement](https://archive.hankchizljaw.com/wrote/the-power-of-progressive-enhancement/) Een voorbeed van het toepassen van _Progressive enhancement_ 
+
 
 </details>
 
@@ -51,29 +50,35 @@ Als je weet wat de _core functionality_ is van jouw CRUD formulier kun je een Br
 <details>
 <summary>Aanpak</summary>
 
-1. Schets een Wireflow van jouw opdracht. Teken de schermen die een gebruiker te zien moet krijgen.
-2. Maak per scherm een Breakdown van de HTML, CSS en JS die je nodig denkt te hebben.
-3. Onderzoek per gebruikte techniek wat de ondersteuning is door verschillende browsers.
+1. Schets een Wireflow van jouw CRUD form. Teken alle schermen die een gebruiker te zien moet krijgen.
+2. Maak per scherm een Breakdown met pseudo-code van de 3 lagen die je nodig hebt: HTML, CSS en JS.
+3. Onderzoek per techniek wat de ondersteuning is door verschillende browsers. Bv JS Fetch, querySelector, CSS Flexbox en Grid, worden alle HTML elementen altijd ondersteund?
 
 #### Materiaal ontwerpfase
 
-- [A minimum viable experience makes for a resilient, inclusive website or app](https://piccalil.li/blog/a-minimum-viable-experience-makes-for-a-resilient-inclusive-website-or-app)
 - [The Role of Enhancement in Web Design](https://www.nngroup.com/articles/enhancement/), een goed artikel over waarom een _feature_ een _enhancement_ is.
 - [Can I use](https://caniuse.com/) "Can I use" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
 
 </details>
 
 ### Bouwen
-*In de bouwfase realiseer je de beslissingen uit de ontwerpfase.*
+
+Als je weet wat de 3 lagen zijn en hoe de verschillende technieke worden ondersteund kun je beginnen met bouwen.
 
 <details>
 <summary>Aanpak</summary>
 
-1. 
+1. Schrijf eerst de HTML en test wat er gebeurt als elementen niet worden ondersteund
+2. Voeg CSS toe, gebruik de cascade voor fallback
+3. Gebruik CSS voor een goede UX formulier validatie als dat nodig is.
+4. Voeg de JS toe die je nodig hebt en gebruik _feature detection_ om ervoor te zorgen dat je geen errors krijgt in browsers die bepaalde code niet ondersteunen. 
 
 #### Materiaal bouwfase
 
-- [The power of progressive enhancement](https://archive.hankchizljaw.com/wrote/the-power-of-progressive-enhancement/) Een voorbeed van het toepassen van _Progressive enhancement_ 
+- [Learn CSS: The cascade](https://web.dev/learn/css/the-cascade/)
+- [Client-side form validation](https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation)
+- [Form Validation UX in HTML and CSS](https://css-tricks.com/form-validation-ux-html-css/)
+- [Implementing feature detection](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Feature_detection)
 
 </details>
 
