@@ -17,9 +17,12 @@ In deze opdracht ga je leren wat Progressive Enhancement is en hoe je dit kan to
 
 ## Werkwijze
 
+Opdracht: Progressive enhanced CRUD formulier.
+
 Voor deze opdracht ga je een CRUD formulier ontwerpen en bouwen volgens het principe van Progressive enhancement. 
 
-We gaan een CRUD formulier maken die met behulp van Javascript kan worden verstuurd met een loading en succes state. Als een browser Javascript niet ondersteund dan wordt het formulier op de server afgehandeld.
+<img width="1359" alt="image" src="https://user-images.githubusercontent.com/1391509/161481223-0d6982b3-324c-4b6d-a40e-fd08dcbcea2c.png">
+
 
 Eerst ga je je verdiepen in wat Progressive enhancement is en hoe je dit kan toepassen voor je opdracht. Daarna ga je een Breakdown schets maken en alle technieken die je wil gebruiken onderzoeken. Vervolgens ga je je ontwerp bouwen.
 
@@ -33,7 +36,7 @@ Eerst ga je je verdiepen in wat _Progressive enhancement_ is en hoe je dit kan t
 <summary>Aanpak</summary>
 
 1. Lees het artikel [Responsive Enhancement](https://24ways.org/2014/responsive-enhancement/) van Jeremy Keith
-2. Bepaal wat voor jouw CRUD formulier de _core functionality_ is. 
+2. Schrijf wat de _core functionality_ is van het CRUD formulier. 
 
 #### Materiaal analysefase
 
@@ -47,7 +50,6 @@ Eerst ga je je verdiepen in wat _Progressive enhancement_ is en hoe je dit kan t
 ### Ontwerpen
 
 Als je weet wat de _core functionality_ is van het CRUD formulier kun je een Wireflow teken voor je ontwerp en een Breakdown maken van hoe je dit in 3 lagen kan opbouwen.
-
 
 <details>
 <summary>Aanpak</summary>
