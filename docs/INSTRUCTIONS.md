@@ -47,7 +47,7 @@ Eerst ga je je verdiepen in wat _Progressive enhancement_ is en hoe je dit kan t
 
 ### Ontwerpen
 
-Als je weet wat de _core functionality_ is van het CRUD formulier kun je een Wireflow teken voor je ontwerp en een Breakdown maken van hoe je dit in 3 lagen kan opbouwen.
+Als je weet wat de _core functionality_ is van het CRUD formulier kun je een Wireflow tekenen voor je ontwerp en een Breakdown maken van hoe je dit in 3 lagen kan opbouwen.
 
 <details>
 <summary>Aanpak</summary>
