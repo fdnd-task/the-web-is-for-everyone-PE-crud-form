@@ -54,7 +54,8 @@ Als je weet wat de _core functionality_ is van het CRUD formulier kun je een Wir
 
 1. Schets een Wireflow van jouw CRUD form. Teken alle schermen, met een loading state en succes state die een gebruiker te zien moet krijgen.
 2. Maak per scherm een Breakdown met pseudo-code van de 3 lagen die je nodig hebt: HTML en server side, CSS layout en het versturen van het formulier met JS.
-3. Onderzoek per techniek wat de ondersteuning is door verschillende browsers met Can I Use. Bv JS Fetch, querySelector, CSS Flexbox en Grid, worden alle HTML elementen altijd ondersteund?
+3. Onderzoek per techniek wat de ondersteuning is door verschillende browsers met Can I Use. Bv JS Fetch, querySelector, CSS Flexbox en Grid, worden alle HTML elementen altijd ondersteund? 
+4. Documenteer je onderzoek in de Wiki van de leertaak.
 
 #### Materiaal ontwerpfase
 
