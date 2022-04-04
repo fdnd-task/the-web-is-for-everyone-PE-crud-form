@@ -87,3 +87,14 @@ Als je weet wat de 3 lagen zijn en hoe de verschillende technieken worden onders
 
 Focus sprint 9 - De focus van deze sprint ligt op gebruiksvriendelijkheid, toegankelijkheid, testen en de testresultaten gebruiken voor het verbeteren van een ontwerp. Server site rendering leren. Progressive enhancement leren. Core functionaliteit kunnen bepalen en implementeren				
 
+Deze leertaak hoort bij het gedragscriterium:
+
+M: Past aangeboden principes en conventies op het gebied van frontend, interface design en vormgeving toe.
+
+Deze opdracht is done als:
+
+- [ ] Er is een Wireflow van het CRUD form met de loading state en succes state
+- [ ] Er is een Breakdown met pseudo code waarin duidelijk wordt hoe het CRUD form in de vershillende lagen moet gaan werken
+- [ ] Er is gedocumenteerd hoe de verschillende technieken door browsers worden ondersteunden hoe je dit met de CSS cascade en/of JS feature detect kan coderen
+- [ ] De schetsen en hhet onderzoek is gedocumenteerd in de Readme en Wiki van de leertaak
+
