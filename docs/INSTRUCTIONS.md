@@ -94,7 +94,7 @@ M: Past aangeboden principes en conventies op het gebied van frontend, interface
 Deze opdracht is done als:
 
 - [ ] Er is een Wireflow van het CRUD form met de loading state en succes state
-- [ ] Er is een Breakdown met pseudo code waarin duidelijk wordt hoe het CRUD form in de vershillende lagen moet gaan werken
+- [ ] Er is een Breakdown met pseudo code waarin duidelijk wordt hoe het CRUD form in de verschillende lagen moet gaan werken
 - [ ] Er is gedocumenteerd hoe de verschillende technieken door browsers worden ondersteunden hoe je dit met de CSS cascade en/of JS feature detect kan coderen
-- [ ] De schetsen en hhet onderzoek is gedocumenteerd in de Readme en Wiki van de leertaak
+- [ ] De schetsen en het onderzoek is gedocumenteerd in de Readme en Wiki van de leertaak
 
