@@ -19,7 +19,8 @@ In deze opdracht ga je leren wat Progressive Enhancement is en hoe je dit kan to
 
 Opdracht: Voor deze opdracht ga je een CRUD formulier ontwerpen en bouwen volgens het principe van Progressive enhancement. 
 
-<img width="1359" alt="image" src="https://user-images.githubusercontent.com/1391509/161481223-0d6982b3-324c-4b6d-a40e-fd08dcbcea2c.png">
+<img width="1356" alt="image" src="https://user-images.githubusercontent.com/1391509/161544418-c2ded2fb-fb30-41c4-b57f-36a3c8d38d15.png">
+
 
 
 Eerst ga je je verdiepen in wat Progressive enhancement is en hoe je dit kan toepassen voor je opdracht. Daarna ga je een Breakdown schets maken en alle technieken die je wil gebruiken onderzoeken. Vervolgens ga je je ontwerp bouwen.
@@ -96,6 +97,6 @@ Deze opdracht is done als:
 
 - [ ] Er is een Wireflow van het CRUD form met de loading state en succes state
 - [ ] Er is een Breakdown met pseudo code waarin duidelijk wordt hoe het CRUD form in de verschillende lagen moet gaan werken
-- [ ] Er is gedocumenteerd hoe de verschillende technieken door browsers worden ondersteunden hoe je dit met de CSS cascade en/of JS feature detect kan coderen
-- [ ] De schetsen en het onderzoek is gedocumenteerd in de Readme en Wiki van de leertaak
+- [ ] Er is gedocumenteerd hoe de verschillende technieken door browsers worden ondersteund en hoe je dit met de CSS cascade en/of JS feature detect kan coderen
+- [ ] Het onderzoek is gedocumenteerd in de Readme en Wiki van de leertaak
 
