@@ -17,9 +17,7 @@ In deze opdracht ga je leren wat Progressive Enhancement is en hoe je dit kan to
 
 ## Werkwijze
 
-Opdracht: Progressive enhanced CRUD formulier.
-
-Voor deze opdracht ga je een CRUD formulier ontwerpen en bouwen volgens het principe van Progressive enhancement. 
+Opdracht: Voor deze opdracht ga je een CRUD formulier ontwerpen en bouwen volgens het principe van Progressive enhancement. 
 
 <img width="1359" alt="image" src="https://user-images.githubusercontent.com/1391509/161481223-0d6982b3-324c-4b6d-a40e-fd08dcbcea2c.png">
 
