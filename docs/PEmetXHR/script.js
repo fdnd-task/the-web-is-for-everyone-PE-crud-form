@@ -19,17 +19,12 @@ feature detect of de browser XHR ondersteunt.
 Zo ja, dan worden de click events van prev/next overschreven.
 Zo nee, dan wordt de functie afgebroeken en doet de pagina het met html.
 */
+
 function setupXHR(){
-  //feature detect: als de browser XHR niet ondersteunt stopt de functie
-  if (!window.XMLHttpRequest){
-    console.log("XHR wordt niet ondersteund")
-    //De functie wordt afgebroken (dat is prima want de html doet het gewoon)
-    return false;
-   }
    //Als de feature bestaat, worden de click events overschreven.
    next.onclick = function(){
      //counter bijhouden om te weten welke pagina ingeladen moet worden
-     current+=1;
+     current++;
      if(document.querySelector("article[data-nr='"+current+"']")){
        //als het article al bestaat, is depagina al ingeladen, dan hoeft allen de pagina getoond te worden
        shownext();
@@ -41,7 +36,7 @@ function setupXHR(){
    }
    prev.onclick = function(){
      //counter bijhouden om te weten welke pagina getoond moet worden
-     current-=1
+     current--;
      //toon de pagina
      shownext();
      event.preventDefault();
@@ -94,5 +89,15 @@ function shownext(){
   }
 }
 
+
+// Featured detect op XMLHttpRequest
+console.log("Feature XMLHttpRequest",window.XMLHttpRequest)
 //Setup functie aanroepen en checken of XHR wordt ondersteund.
-setupXHR();
+//feature detect: als de browser XHR niet ondersteunt stopt de functie
+if (window.XMLHttpRequest) {
+  console.log("WE HEBBEN EEN XHR")
+  setupXHR();
+}else{
+  console.log("XHR wordt niet ondersteund")
+  //De setupXHR functie wordt niet uitgevoerd (dat is prima want de html doet het gewoon)
+}
