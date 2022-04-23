@@ -34,8 +34,9 @@ Eerst ga je je verdiepen in wat _Progressive enhancement_ is en hoe je dit kan t
 <details>
 <summary>Aanpak</summary>
 
-1. Lees het artikel [Responsive Enhancement](https://24ways.org/2014/responsive-enhancement/) van Jeremy Keith
-2. Schrijf wat de _core functionality_ is van het CRUD formulier. 
+1. Lees het artikel van Bram van Damme over [Progressive Enhancement and HTML Forms](https://www.bram.us/2022/04/22/progressive-enhancement-and-html-forms-use-formdata/)
+2. Lees het artikel [Responsive Enhancement](https://24ways.org/2014/responsive-enhancement/) van Jeremy Keith
+3. Schrijf wat de _core functionality_ is van het CRUD formulier. 
 
 #### Materiaal analysefase
 
