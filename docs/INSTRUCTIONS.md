@@ -1,6 +1,6 @@
 # The web is for everyone - Progressive Enhancement CRUD form
 
-Leren wat **Progressive** _Enhancement_ is en hoe je dit kan toepassen
+Leren wat Progressive Enhancement is en hoe je dit kan toepassen
 
 ## Context
 
