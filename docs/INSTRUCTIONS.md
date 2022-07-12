@@ -82,7 +82,7 @@ Als je weet wat de 3 lagen zijn en hoe de verschillende technieken worden onders
 
 Focus sprint 9 - De focus van deze sprint ligt op gebruiksvriendelijkheid, toegankelijkheid, testen en de testresultaten gebruiken voor het verbeteren van een ontwerp. Server site rendering leren. Progressive enhancement leren. Core functionaliteit kunnen bepalen en implementeren				
 
-Deze leertaak hoort bij het gedragscriterium:
+Deze deeltaak hoort bij het gedragscriterium:
 
 M: Past aangeboden principes en conventies op het gebied van frontend, interface design en vormgeving toe.
 
