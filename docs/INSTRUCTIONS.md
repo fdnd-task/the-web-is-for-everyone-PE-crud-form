@@ -1,6 +1,6 @@
 # The web is for everyone - Progressive Enhancement CRUD form
 
-Leren wat Progressive Enhancement is en hoe je dit kan toepassen
+Opdracht: Ontwerp en bouw een CRUD formulier volgens het principe van Progressive enhancement.
 
 ## Context
 
@@ -17,8 +17,6 @@ In deze opdracht ga je leren wat Progressive Enhancement is en hoe je dit kan to
 
 ## Werkwijze
 
-Opdracht: Voor deze opdracht ga je een CRUD formulier ontwerpen en bouwen volgens het principe van Progressive enhancement. 
-
 <img width="1356" alt="image" src="https://user-images.githubusercontent.com/1391509/161544418-c2ded2fb-fb30-41c4-b57f-36a3c8d38d15.png">
 
 
@@ -31,8 +29,7 @@ Deze opdracht gaat over de [analyse](#analyseren), [ontwerp](#ontwerpen) en [bou
 
 Eerst ga je je verdiepen in wat _Progressive enhancement_ is en hoe je dit kan toepassen voor je opdracht. 
 
-<details>
-<summary>Aanpak</summary>
+#### Aanpak
 
 1. Lees het artikel van Bram van Damme over [Progressive Enhancement and HTML Forms](https://www.bram.us/2022/04/22/progressive-enhancement-and-html-forms-use-formdata/)
 2. Lees het artikel [Responsive Enhancement](https://24ways.org/2014/responsive-enhancement/) van Jeremy Keith
@@ -45,14 +42,12 @@ Eerst ga je je verdiepen in wat _Progressive enhancement_ is en hoe je dit kan t
 - [The power of progressive enhancement](https://archive.hankchizljaw.com/wrote/the-power-of-progressive-enhancement/) Een voorbeed van het toepassen van _Progressive enhancement_ 
 
 
-</details>
 
 ### Ontwerpen
 
 Als je weet wat de _core functionality_ is van het CRUD formulier kun je een Wireflow tekenen voor je ontwerp en een Breakdown maken van hoe je dit in 3 lagen kan opbouwen.
 
-<details>
-<summary>Aanpak</summary>
+#### Aanpak
 
 1. Schets een Wireflow van jouw CRUD form. Teken alle schermen, met een loading state en succes state die een gebruiker te zien moet krijgen.
 2. Maak per scherm een Breakdown met pseudo-code van de 3 lagen die je nodig hebt: HTML en server side, CSS layout en het versturen van het formulier met JS.
@@ -64,14 +59,13 @@ Als je weet wat de _core functionality_ is van het CRUD formulier kun je een Wir
 - [The Role of Enhancement in Web Design](https://www.nngroup.com/articles/enhancement/), een goed artikel over waarom een _feature_ een _enhancement_ is.
 - [Can I use](https://caniuse.com/) "Can I use" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
 
-</details>
+
 
 ### Bouwen
 
 Als je weet wat de 3 lagen zijn en hoe de verschillende technieken worden ondersteund kun je beginnen met bouwen.
 
-<details>
-<summary>Aanpak</summary>
+#### Aanpak
 
 1. Schrijf eerst de HTML en test wat er gebeurt als elementen niet worden ondersteund
 2. Voeg CSS toe, gebruik de cascade voor fallback
@@ -81,8 +75,6 @@ Als je weet wat de 3 lagen zijn en hoe de verschillende technieken worden onders
 
 - [Learn CSS: The cascade](https://web.dev/learn/css/the-cascade/)
 - [Implementing feature detection](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Feature_detection)
-
-</details>
 
 
 
